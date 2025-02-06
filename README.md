@@ -1,4 +1,4 @@
-# CVR College of Engineering TechFast Symposium Website
+# CVR College of Engineering TechFest Symposium Website
 
 This is the official website for the **TechFast Symposium** hosted by **CVR College of Engineering**. The website is built using **HTML, CSS, and JavaScript**, featuring a custom **bike animation on an SVG road that moves on scroll**, which adds a cool interactive effect.
 
